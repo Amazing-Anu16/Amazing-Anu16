@@ -1,4 +1,4 @@
-## ** *Anupriya Kundu* **
+## **Anupriya Kundu **
 ## 👋 Welcome to my GitHub Profile
 
 <!--

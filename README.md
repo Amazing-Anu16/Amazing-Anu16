@@ -1,5 +1,5 @@
 ## **Anupriya Kundu**
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=👋+Welcome+to+my+GitHub+Profile;Coding+%F0%9F%92%BB+%7C+Learning+%F0%9F%93%9A+%7C+Building+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=CCCCFF&center=true&vCenter=true&width=800&lines=👋+Welcome+to+my+GitHub+Profile;Coding+💻+|+Learning+📚+|+Building+🚀)
 <p align = "Center">
   <b> I’m a second-year Information Technology student with a genuine curiosity for technology and a love for problem-solving. I enjoy exploring how things work behind the scenes whether it’s writing code, building projects, or finding smarter ways to tackle challenges. Alongside my studies, I’m growing my skills in software development while also diving into exciting areas like AI and IoT. I like learning by doing, experimenting with new ideas, and constantly improving, because for me, technology isn’t just something I study, it’s something I enjoy creating and exploring. </b><br>
 </p>

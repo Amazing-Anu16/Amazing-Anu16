@@ -1,5 +1,5 @@
 ## **Anupriya Kundu**
-# 👋 Welcome to my GitHub Profile
+### 👋 Welcome to my GitHub Profile
 
 <!--
 **Amazing-Anu16/Amazing-Anu16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

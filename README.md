@@ -29,8 +29,10 @@ Here's a glimpse into my activity and contributions on GitHub:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amazing-Anu16&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amazing-Anu16&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
+
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amazing-Anu16&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 ### 🔥 Streak Statistics
 <p align="center">

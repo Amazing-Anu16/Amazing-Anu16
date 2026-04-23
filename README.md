@@ -15,7 +15,7 @@ My toolkit is diverse and ever-evolving. Here are some of the technologies I enj
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00ADD8?style=for-the-badge&logo=c++&logoColor=white)
 <!--
 **Amazing-Anu16/Amazing-Anu16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

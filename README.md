@@ -41,6 +41,15 @@ Here's a glimpse into my activity and contributions on GitHub:
 
 ### 📅 Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/Amazing-Anu16" alt="Contribution Calendar" width="100%"/>
+
+## 🌐 Let's Connect & Collaborate
+
+I'm always open to discussing new opportunities, collaborating on exciting projects, or simply sharing knowledge. Feel free to reach out!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anupriya-kundu-425059376/) <!-- TODO: Add your LinkedIn -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:24510901.dit@dypvp.edu.in) <!-- TODO: Add your email -->
 <!--
 **Amazing-Anu16/Amazing-Anu16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
